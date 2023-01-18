@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://leonidkuznetsov.vercel.app/](https://leonidkuznetsov.vercel.app/)
 
-- 💬 Ask me about **javascript, typescript, react, redux, mobx, webpack, nodejs, css, html**
+- 💬 Ask me about **javascript, typescript, web3, solidity, react, redux, mobx, webpack, nodejs, css, html**
 
 - 📫 How to reach me **js.leonid.kuznetsov@gmail.com**
 
