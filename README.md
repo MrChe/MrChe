@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/1eon_kuznetsov" target="blank"><img src="https://img.shields.io/twitter/follow/1eon_kuznetsov?logo=twitter&style=for-the-badge" alt="1eon_kuznetsov" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Tensorflow, NestJS, Kubernetes**
+- 🌱 I’m currently learning **Web3/Solidity, Machine Learning, Tensorflow, NestJS, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://leonidkuznetsov.vercel.app/](https://leonidkuznetsov.vercel.app/)
 
